@@ -185,14 +185,14 @@ body{
 
 .hair{
     height: 50px;
-    width: 89px;
+    width: 86px;
     background-color: #222222;
-    border-radius: 40% 50% 0 10%;
+    border-radius: 100% 80% 20% 30%;
     border: 2px solid black;
     transform: rotate(-5deg);
     position: absolute;
-    top: -29px;
-    left: -39px;
+    top: -30px;
+    left: -45px;
 }
 
 .eye-l{
